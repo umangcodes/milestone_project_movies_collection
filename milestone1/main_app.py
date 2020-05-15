@@ -16,10 +16,10 @@ Updates for next version:
 '''
 Format of the data storage:
 
-[("title":"name_of_title","director":"name_of_director","duration":"duration__of_movies"),
+[
     ("title":"name_of_title","director":"name_of_director","duration":"duration__of_movies"),
     ("title":"name_of_title","director":"name_of_director","duration":"duration__of_movies"),
-
+    ("title":"name_of_title","director":"name_of_director","duration":"duration__of_movies"),
 ]
 '''
 
