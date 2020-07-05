@@ -48,9 +48,9 @@ book_database = []
 def continue_operation():
     while True:
         operation = input("continue operation:\n=>")
-        if operation == "Y" or operation == "y" or operation == "Yes" or operation == "YES":
+        if operation == "Y" or operation == "y" or operation == "Yes" or operation == "YES" or operation == "yes":
             return True
-        elif operation == "N" or operation == "n" or operation == "No" or operation == "NO":
+        elif operation == "N" or operation == "n" or operation == "No" or operation == "NO" or operation == "no":
             return False
         else:
             print(f"Invalid Command: {operation}")
